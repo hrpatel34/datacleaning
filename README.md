@@ -1,7 +1,7 @@
 ### Introduction
 This is a programming assignment of Data Cleaning course. The task is to create tidy data using the Samsung data. 
 
-THe analysis program merges data from trining data set and test dataset. Once it merges data, it removes all columns except columns with mean and standard deviation values. It creates independent tidy data set with the average of each variable for each activity and each subject and saves it in finalResult.txt
+The analysis program merges data from trining data set and test dataset. Once it merges data, it removes all columns except columns with mean and standard deviation values. It creates independent tidy data set with the average of each variable for each activity and each subject and saves it in finalResult.txt
 
 A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
